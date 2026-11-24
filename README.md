@@ -84,8 +84,6 @@ touch \
 
 ```bash
 tree -a
-find . -type d | wc -l
-find . -type f | wc -l
 ```
 
 The completed lab contains **17 directories including the workspace root and 17 files**. The final screenshot shows hidden entries such as `.env`, `.archive`, and `.diagnostics`.
